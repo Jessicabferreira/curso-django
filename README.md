@@ -1,2 +1,3 @@
-# curso-django
-Código desenvolvido no módulo de Django 
+# Curso Django
+
+Código desenvolvido no módulo de Django
